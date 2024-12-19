@@ -30,7 +30,7 @@ if api_key and azure_deployment and azure_endpoint and api_version:
         api_version=api_version
     )
     # App title and description
-    st.title("🧠💡Tormentas de Ideas", icon="🧠💡")
+    st.title("🧠💡Tormentas de Ideas")
     st.write("Welcome! ¡Bienvenido! Elija un modo de tormenta de ideas para comenzar a inspirarse en sus proyectos..")
 
     # Define the brainstorming modes, their corresponding functions, and descriptions
