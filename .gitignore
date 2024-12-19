@@ -1,5 +1,5 @@
 .env
 draft.ipynb
 venv
-__pychace__
+__pycache__
 .devcontainer

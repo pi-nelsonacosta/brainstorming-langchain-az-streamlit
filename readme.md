@@ -14,7 +14,7 @@ Esta aplicación proporciona varias técnicas de tormentas de ideas:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/Azzedde/brainstormers
+   git clone https://github.com/pi-nelsonacosta/brainstorming-langchain-az-streamlit.git
    ```
 2. **Ingrese al directorio**:
    ```bash
