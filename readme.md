@@ -1,6 +1,6 @@
 # 🧠 Tormentas de Ideas
 
-Creada con **LangChain** y **Streamlit**, esta herramienta mejora su experiencia de tormeta de ideas al ofrecer cadenas seleccionadas y optimizadas inspiradas en técnicas efectivas del mundo real. En lugar de usar ChatGPT directamente, esta aplicación le permite participar con métodos estructurados, lo que lo guíara para explorar ideas de manera integral y maximizar los beneficios de una tormenta de ideas impulsada por LLM.
+Creada con **LangChain**, **Streamlit** y **Azure Open AI**, esta herramienta mejora su experiencia al generar ideas, porque ofrece posibilidades seleccionadas y optimizadas basadas en técnicas efectivas del mundo real. En lugar de usar ChatGPT directamente, esta aplicación le permite participar con métodos estructurados, lo que lo guíara para explorar ideas de manera integral y maximizar los beneficios de una reunion inspiradora impulsada por LLM.
 
 Esta aplicación proporciona varias técnicas de tormentas de ideas:
 - **[Big Mind Mapping](https://arxiv.org/abs/2310.19275)**: Expande las ideas en un ámbito mas general, ideal para cuando necesitas reunir la máxima cantidad de ideas.
